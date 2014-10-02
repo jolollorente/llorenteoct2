@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# LlorenteOct2
+#
+
+projectname: LlorenteOct2
+vendorid: com.llorente
+mainmodule: com.llorente.llorenteoct2
